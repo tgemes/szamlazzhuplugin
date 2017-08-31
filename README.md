@@ -1,0 +1,2 @@
+# szamlazzhuplugin
+szamlazzhuplugin
